@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+anthropic
+apify-client
+python-dotenv
