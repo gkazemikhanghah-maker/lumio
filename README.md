@@ -98,8 +98,8 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs)
 | Service | URL |
 |---------|-----|
 | Live App | [relaxed-kelpie-504b6d.netlify.app](https://relaxed-kelpie-504b6d.netlify.app) |
-| API | [lumio-backend-production.up.railway.app](https://lumio-backend-production.up.railway.app) |
-| API Docs | [lumio-backend-production.up.railway.app/docs](https://lumio-backend-production.up.railway.app/docs) |
+| API | [lumio-60iy.onrender.com](https://lumio-60iy.onrender.com) |
+| API Docs | [lumio-60iy.onrender.com/docs](https://lumio-60iy.onrender.com/docs) |
 
 ---
 
