@@ -1,4 +1,4 @@
-const API_BASE = "https://lumio-backend-production.up.railway.app";
+const API_BASE = "https://lumio-60iy.onrender.com";
 
 export interface AnalyzeRequest {
   job_title: string;
