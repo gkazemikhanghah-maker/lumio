@@ -73,7 +73,11 @@ Open [http://localhost:5173](http://localhost:5173)
 ```bash
 cd backend
 pip install -r requirements.txt
-# Create .env file with your ANTHROPIC_API_KEY
+```
+ANTHROPIC_API_KEY=your_key_here
+```
+
+```bash
 uvicorn main:app --reload
 ```
 
@@ -89,7 +93,7 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs)
 | Backend | Python · FastAPI |
 | AI | Anthropic Claude API |
 | Frontend Deploy | Netlify |
-| Backend Deploy | Railway |
+| Backend Deploy | Render |
 
 ---
 
@@ -112,11 +116,6 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs)
 - [ ] Stripe payments (Free / Pro $15/month)
 - [ ] Supabase auth & persistent user profiles
 
----
-
-## 📄 License
-
-MIT
 
 ---
 
